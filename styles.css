@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 10px;
+}
+img {
+  width: 100%;
+}
+.mdpf {
+  color: rgba(240, 185, 11, 1);
+}
+.wibn {
+  color: rgba(240, 185, 11, 1);
+}
+.wiarb {
+  background-color: rgba(240, 185, 11, 1);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+}
+.lgstrt {
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+.tw-link,
+.ze-link,
+.aw-link,
+.bin-link,
+.binus-link {
+  color: rgba(240, 185, 11, 1);
+  line-height: 2em;
+}
+.coinmrktc {
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+}
+.profit-calc {
+  font-size: large;
+}
+.dep-ul {
+  list-style-type: none;
+  font-size: large;
+}
+.bptbb,
+.brif-summ {
+  background: rgba(240, 185, 11, 1);
+  color: black;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  padding: 13px;
+  border-radius: 5px;
+}
+.htbe {
+  color: white;
+  background: black;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  padding: 13px;
+  border-radius: 5px;
+}
+.bin-strg {
+  font-size: larger;
+}
+.buy-strg {
+  font-size: larger;
+}
+.htwit,
+.arrow-desc {
+  color: white;
+  background: black;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  padding: 13px;
+  border-radius: 5px;
+}
+.smrtcntrtweb {
+  font-size: x-large;
+  display: flex;
+  justify-content: center;
+}
+.sp-sp {
+  font-size: x-large;
+}
+.ethsmtadr2,
+.etheresmtcntr {
+  display: flex;
+  justify-content: center;
+}
+.fbs-link {
+  font-size: 10px;
+  color: rgba(240, 185, 11, 1);
+}
